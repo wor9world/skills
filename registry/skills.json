@@ -24,5 +24,42 @@
       "description": "Planning, documentation, communication, and repeatable workflows."
     }
   ],
-  "skills": []
+  "skills": [
+    {
+      "id": "technical-spec-builder",
+      "category": "engineering",
+      "path": "categories/engineering/technical-spec-builder/SKILL.md",
+      "description": "Turn a short product or engineering request into an implementable specification with explicit constraints, user flows, states, contracts, acceptance criteria, and phased delivery."
+    },
+    {
+      "id": "rigorous-code-review",
+      "category": "engineering",
+      "path": "categories/engineering/rigorous-code-review/SKILL.md",
+      "description": "Audit supplied code or a repository for correctness, security, reliability, maintainability, and framework-specific issues, with evidence, severity, and actionable fixes."
+    },
+    {
+      "id": "safe-agent-execution",
+      "category": "engineering",
+      "path": "categories/engineering/safe-agent-execution/SKILL.md",
+      "description": "Control AI-agent tool use through intent checks, preflight planning, least privilege, confirmation gates, bounded retries, and post-action verification."
+    },
+    {
+      "id": "evidence-first-analysis",
+      "category": "reasoning",
+      "path": "categories/reasoning/evidence-first-analysis/SKILL.md",
+      "description": "Produce grounded analysis and research by separating facts, inferences, hypotheses, and unknowns; verifying material claims and identifying source quality."
+    },
+    {
+      "id": "low-friction-collaboration",
+      "category": "productivity",
+      "path": "categories/productivity/low-friction-collaboration/SKILL.md",
+      "description": "Reduce repeated explanations and prompt-writing by reusing available conversation or project context, making low-risk assumptions explicit, and asking only for essential missing information."
+    },
+    {
+      "id": "project-context-keeper",
+      "category": "productivity",
+      "path": "categories/productivity/project-context-keeper/SKILL.md",
+      "description": "Maintain accurate project continuity by extracting constraints and decisions from authoritative project sources, detecting stale context, and producing compact handoffs without inventing status."
+    }
+  ]
 }
