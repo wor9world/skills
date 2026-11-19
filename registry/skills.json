@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "repository": "wor9world/skills",
+  "discovery": "Match the task against each skill description, then load only the selected SKILL.md.",
+  "categories": [
+    {
+      "id": "engineering",
+      "path": "categories/engineering",
+      "description": "Software design, implementation, debugging, testing, and infrastructure."
+    },
+    {
+      "id": "research",
+      "path": "categories/research",
+      "description": "Source discovery, evidence collection, verification, and synthesis."
+    },
+    {
+      "id": "reasoning",
+      "path": "categories/reasoning",
+      "description": "Structured analysis, decision methods, and problem decomposition."
+    },
+    {
+      "id": "productivity",
+      "path": "categories/productivity",
+      "description": "Planning, documentation, communication, and repeatable workflows."
+    }
+  ],
+  "skills": []
+}
